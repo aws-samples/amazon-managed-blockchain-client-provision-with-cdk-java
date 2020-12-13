@@ -50,3 +50,11 @@ After providing above values, execute the following commands in terminal from th
 
 * `cdk synth` this command generates the CloudFormation template under cdk.out folder. Validate the template.
 * `cdk deploy` this command deploys CloudFormation stack
+
+## Security
+
+See CONTRIBUTING file for more information.
+
+## License
+
+This library is licensed under the MIT-0 License. See the LICENSE file.
