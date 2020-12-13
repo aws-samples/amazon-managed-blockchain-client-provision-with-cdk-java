@@ -53,8 +53,8 @@ After providing above values, execute the following commands in terminal from th
 
 ## Security
 
-See CONTRIBUTING file for more information.
+See [CONTRIBUTING](https://github.com/aws-samples/amazon-managed-blockchain-client-provision-with-cdk-java/blob/master/CONTRIBUTING.md) file for more information.
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This library is licensed under the MIT-0 License. See the [LICENSE](https://github.com/aws-samples/amazon-managed-blockchain-client-provision-with-cdk-java/blob/master/LICENSE) file.
